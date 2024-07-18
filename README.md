@@ -1,1 +1,1 @@
-These are My-Java-Exercies.
+This is a Simulator of Base64 Encoder and Decoder.
