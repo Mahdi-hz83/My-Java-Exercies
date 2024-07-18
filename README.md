@@ -1,1 +1,1 @@
-These are My-Java-Exercies.
+A Small Simulator of an Office Finincial Department.
