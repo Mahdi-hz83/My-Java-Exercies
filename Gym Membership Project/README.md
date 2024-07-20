@@ -1,1 +1,0 @@
-This is a simulator for a Gym Membership management.
